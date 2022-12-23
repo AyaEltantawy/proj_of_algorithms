@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VxlEO0q/hU6VdNPrggOOY7+/Sbrb8vLwdXM1JvwP/egp0Go5w+tMelxmcvVuFVT7Z2K1Pw5lHpe2PN1TzMQ2cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elnourcenter\\source\\repos\\ConsoleApp30\\ConsoleApp30\\ConsoleApp30.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elnourcenter\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\elnourcenter\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\elnourcenter\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
